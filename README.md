@@ -8,7 +8,7 @@
          <tr>
            <td align="center" bgcolor="#3c3e41" style="background-color: #3c3e41; margin: auto; max-width: 600px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; padding: 15px 20px; " width="100%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="#https://www.starfall.com/h/english45/spellingbees/" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #3c3e41; text-decoration: none; border: none; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; display: inline-block;">
+               <a href="https://www.starfall.com/h/english45/spellingbees/" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #3c3e41; text-decoration: none; border: none; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; display: inline-block;">
                    <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Learn more</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
