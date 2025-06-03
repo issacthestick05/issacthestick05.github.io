@@ -6,10 +6,10 @@
      <td align="center" style="padding: 10px;">
        <table border="0" class="mobile-button" cellspacing="0" cellpadding="0">
          <tr>
-           <td align="center" bgcolor="#3c3e41" style="background-color: #3c3e41; margin: auto; max-width: 600px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; padding: 15px 20px; " width="100%">
+           <td align="center" bgcolor="#20262c" style="background-color: #20262c; margin: auto; max-width: 600px; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; padding: 15px 20px; " width="100%">
            <!--[if mso]>&nbsp;<![endif]-->
-               <a href="https://www.starfall.com/h/english45/spellingbees/" target="_blank" style="16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #3c3e41; text-decoration: none; border: none; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; display: inline-block;">
-                   <span style="font-size: 16px; font-family: Helvetica, Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Learn more</span>
+               <a href="https://www.starfall.com/h/english45/spellingbees/" target="_blank" style="16px; font-family: Arial, sans-serif; color: #ffffff; font-weight:normal; text-align:center; background-color: #20262c; text-decoration: none; border: none; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; display: inline-block;">
+                   <span style="font-size: 16px; font-family: Arial, sans-serif; color: #ffffff; font-weight:normal; line-height:1.5em; text-align:center;">Learn More</span>
              </a>
            <!--[if mso]>&nbsp;<![endif]-->
            </td>
@@ -18,5 +18,5 @@
      </td>
    </tr>
  </table>
-</center>		
+</center>
 
